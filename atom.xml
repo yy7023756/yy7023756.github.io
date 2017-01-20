@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Bruce的故事</title>
+  <subtitle>那些电影与设计</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-01-18T16:33:10.185Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Bruceyoung</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>kh 中文名称</title>
+    <link href="http://yoursite.com/2017/01/19/234234/"/>
+    <id>http://yoursite.com/2017/01/19/234234/</id>
+    <published>2017-01-18T16:49:30.300Z</published>
+    <updated>2017-01-18T16:33:10.185Z</updated>
+    
+    <content type="html"><![CDATA[<p>中文测试一断怎么样</p>
+<h2 id="串文效果"><a href="#串文效果" class="headerlink" title="串文效果"></a>串文效果</h2><h3 id="C中中中"><a href="#C中中中" class="headerlink" title="C中中中"></a>C中中中</h3><p>###wq wqrwer中</p>
+<a id="more"></a>
+<pre><code class="bash">123123
+</code></pre>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;中文测试一断怎么样&lt;/p&gt;
+&lt;h2 id=&quot;串文效果&quot;&gt;&lt;a href=&quot;#串文效果&quot; class=&quot;headerlink&quot; title=&quot;串文效果&quot;&gt;&lt;/a&gt;串文效果&lt;/h2&gt;&lt;h3 id=&quot;C中中中&quot;&gt;&lt;a href=&quot;#C中中中&quot; class=&quot;headerlink&quot; title=&quot;C中中中&quot;&gt;&lt;/a&gt;C中中中&lt;/h3&gt;&lt;p&gt;###wq wqrwer中&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="设计" scheme="http://yoursite.com/categories/%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>kh 中文名11称</title>
+    <link href="http://yoursite.com/2017/01/19/3453453/"/>
+    <id>http://yoursite.com/2017/01/19/3453453/</id>
+    <published>2017-01-18T16:49:28.814Z</published>
+    <updated>2017-01-20T16:49:14.797Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://kieran-hexo.qiniudn.com/hexo_28_1.png" alt="超声波111"><br>alt=”超声波测距模块”<br>中文测试一断怎么样</p>
+<p> 串文效果<br><img src="http://kieran-hexo.qiniudn.com/hexo_28_1.png" alt="超声波"><br>C中中中</p>
+<p>wq wqrwer中</p>
+<pre><code class="bash">123123
+</code></pre>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://kieran-hexo.qiniudn.com/hexo_28_1.png&quot; alt=&quot;超声波111&quot;&gt;&lt;br&gt;alt=”超声波测距模块”&lt;br&gt;中文测试一断怎么样&lt;/p&gt;
+&lt;p&gt; 串文效果&lt;br&gt;&lt;img src=&quot;http://kier
+    
+    </summary>
+    
+      <category term="设计" scheme="http://yoursite.com/categories/%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>kh 中文名称</title>
+    <link href="http://yoursite.com/2017/01/19/567567/"/>
+    <id>http://yoursite.com/2017/01/19/567567/</id>
+    <published>2017-01-18T16:49:26.932Z</published>
+    <updated>2017-01-18T16:33:10.185Z</updated>
+    
+    <content type="html"><![CDATA[<p>中文测试一断怎么样</p>
+<h2 id="串文效果"><a href="#串文效果" class="headerlink" title="串文效果"></a>串文效果</h2><h3 id="C中中中"><a href="#C中中中" class="headerlink" title="C中中中"></a>C中中中</h3><p>###wq wqrwer中</p>
+<a id="more"></a>
+<pre><code class="bash">123123
+</code></pre>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;中文测试一断怎么样&lt;/p&gt;
+&lt;h2 id=&quot;串文效果&quot;&gt;&lt;a href=&quot;#串文效果&quot; class=&quot;headerlink&quot; title=&quot;串文效果&quot;&gt;&lt;/a&gt;串文效果&lt;/h2&gt;&lt;h3 id=&quot;C中中中&quot;&gt;&lt;a href=&quot;#C中中中&quot; class=&quot;headerlink&quot; title=&quot;C中中中&quot;&gt;&lt;/a&gt;C中中中&lt;/h3&gt;&lt;p&gt;###wq wqrwer中&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="设计" scheme="http://yoursite.com/categories/%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>kh 中文名称</title>
+    <link href="http://yoursite.com/2017/01/19/2342/"/>
+    <id>http://yoursite.com/2017/01/19/2342/</id>
+    <published>2017-01-18T16:49:25.088Z</published>
+    <updated>2017-01-18T16:33:10.185Z</updated>
+    
+    <content type="html"><![CDATA[<p>中文测试一断怎么样</p>
+<h2 id="串文效果"><a href="#串文效果" class="headerlink" title="串文效果"></a>串文效果</h2><h3 id="C中中中"><a href="#C中中中" class="headerlink" title="C中中中"></a>C中中中</h3><p>###wq wqrwer中</p>
+<a id="more"></a>
+<pre><code class="bash">123123
+</code></pre>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;中文测试一断怎么样&lt;/p&gt;
+&lt;h2 id=&quot;串文效果&quot;&gt;&lt;a href=&quot;#串文效果&quot; class=&quot;headerlink&quot; title=&quot;串文效果&quot;&gt;&lt;/a&gt;串文效果&lt;/h2&gt;&lt;h3 id=&quot;C中中中&quot;&gt;&lt;a href=&quot;#C中中中&quot; class=&quot;headerlink&quot; title=&quot;C中中中&quot;&gt;&lt;/a&gt;C中中中&lt;/h3&gt;&lt;p&gt;###wq wqrwer中&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="设计" scheme="http://yoursite.com/categories/%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>kh 中文名称</title>
+    <link href="http://yoursite.com/2017/01/15/234/"/>
+    <id>http://yoursite.com/2017/01/15/234/</id>
+    <published>2017-01-15T09:17:02.346Z</published>
+    <updated>2017-01-18T16:33:10.185Z</updated>
+    
+    <content type="html"><![CDATA[<p>中文测试一断怎么样</p>
+<h2 id="串文效果"><a href="#串文效果" class="headerlink" title="串文效果"></a>串文效果</h2><h3 id="C中中中"><a href="#C中中中" class="headerlink" title="C中中中"></a>C中中中</h3><p>###wq wqrwer中</p>
+<a id="more"></a>
+<pre><code class="bash">123123
+</code></pre>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;中文测试一断怎么样&lt;/p&gt;
+&lt;h2 id=&quot;串文效果&quot;&gt;&lt;a href=&quot;#串文效果&quot; class=&quot;headerlink&quot; title=&quot;串文效果&quot;&gt;&lt;/a&gt;串文效果&lt;/h2&gt;&lt;h3 id=&quot;C中中中&quot;&gt;&lt;a href=&quot;#C中中中&quot; class=&quot;headerlink&quot; title=&quot;C中中中&quot;&gt;&lt;/a&gt;C中中中&lt;/h3&gt;&lt;p&gt;###wq wqrwer中&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="设计" scheme="http://yoursite.com/categories/%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2017/01/14/hello-world/"/>
+    <id>http://yoursite.com/2017/01/14/hello-world/</id>
+    <published>2017-01-14T14:56:23.748Z</published>
+    <updated>2017-01-14T14:56:23.748Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
