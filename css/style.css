@@ -614,7 +614,7 @@ nav i.icon-basic-eye {
 	}
 
 	.navbar nav {
-		display: none
+		display: inline
 	}
 }
 .grey-border {
