@@ -4,9 +4,9 @@
   <subtitle>那些电影与设计</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://my2046.com/"/>
   <updated>2017-01-30T11:38:09.087Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://my2046.com/</id>
   
   <author>
     <name>Bruceyoung</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>自控力</title>
-    <link href="http://yoursite.com/2017/01/22/%E8%87%AA%E6%8E%A7%E5%8A%9B/"/>
-    <id>http://yoursite.com/2017/01/22/自控力/</id>
+    <link href="http://my2046.com/2017/01/22/%E8%87%AA%E6%8E%A7%E5%8A%9B/"/>
+    <id>http://my2046.com/2017/01/22/自控力/</id>
     <published>2017-01-22T14:48:35.835Z</published>
     <updated>2017-01-30T11:38:09.087Z</updated>
     
@@ -43,15 +43,15 @@
     
     </summary>
     
-      <category term="读书感悟" scheme="http://yoursite.com/categories/%E8%AF%BB%E4%B9%A6%E6%84%9F%E6%82%9F/"/>
+      <category term="读书感悟" scheme="http://my2046.com/categories/%E8%AF%BB%E4%B9%A6%E6%84%9F%E6%82%9F/"/>
     
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/01/22/hello-world/"/>
-    <id>http://yoursite.com/2017/01/22/hello-world/</id>
+    <link href="http://my2046.com/2017/01/22/hello-world/"/>
+    <id>http://my2046.com/2017/01/22/hello-world/</id>
     <published>2017-01-22T14:48:35.833Z</published>
     <updated>2017-01-30T11:48:38.116Z</updated>
     
@@ -73,7 +73,7 @@
     </summary>
     
     
-      <category term="design" scheme="http://yoursite.com/tags/design/"/>
+      <category term="design" scheme="http://my2046.com/tags/design/"/>
     
   </entry>
   
