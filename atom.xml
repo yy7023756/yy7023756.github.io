@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>我的2046</title>
+  <title>小杨说事儿</title>
   <subtitle>爱思考、爱电影、爱设计</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.my2046.com/"/>
-  <updated>2017-02-22T15:35:51.525Z</updated>
+  <updated>2017-03-03T17:08:27.320Z</updated>
   <id>http://www.my2046.com/</id>
   
   <author>
@@ -14,6 +14,62 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何设计一个交互方案</title>
+    <link href="http://www.my2046.com/2017/03/04/%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%E4%B8%80%E4%B8%AA%E4%BA%A4%E4%BA%92%E6%96%B9%E6%A1%88/"/>
+    <id>http://www.my2046.com/2017/03/04/如何设计一个交互方案/</id>
+    <published>2017-03-03T16:44:10.838Z</published>
+    <updated>2017-03-03T17:08:27.320Z</updated>
+    
+    <content type="html"><![CDATA[<div style="width:300px;margin:0 auto"><br>    <img src="http://okfiles0v.bkt.clouddn.com/sikao.jpg" style="width:100%" ;="" alt="Photo by jonboy24/7 on Flickr"><br></div>
+
+<hr>
+<pre><code>上文简单分享了对用户体验的一些认识，但用户体验的覆盖面太大，环节不同可能采用的方法和方式也会不同，而用户体验中有一些相对核心的环节，用户是否可以友好的认识、理解、使用产品，这也就是交互所涉及的领域。那么，我们要如何设计一个交互方案呢？
+</code></pre><hr>
+<h4 id="1-用户目标"><a href="#1-用户目标" class="headerlink" title="1.用户目标"></a>1.用户目标</h4><p>用户目标是我们设计的核心和出发点。所以在开始设计前：<br><strong>（1）要对用户进行划分，明白产品或该需求涉及到的用户有哪些。</strong><br>         涉及的用户不只是使用产品的用户，也有可能是产品外的服务角色，因为产品外角色目标有可能对使用的用户目标产生影响。<br><strong>（2）了解用户的习惯和能力所在。</strong><br>         了解这些方便我们构建用户的心智模型，对于同一件事情如果用户的习惯或是能力不同，不仅会影响用户的使用效率，也会在一定程度上失去了一个提升亲切感的机会。<br><strong>（3）用户的目标到底是什么。</strong><br>         目标决定了行为，这些目标有些是显性的，用户可以明确的表达出来。有些是隐性的，用户可能根本意识不到，也表述不出来。想对目标的把握越准确就需要对人性洞察的更深刻。</p>
+<hr>
+<h4 id="2-构建关键路径场景"><a href="#2-构建关键路径场景" class="headerlink" title="2.构建关键路径场景"></a>2.构建关键路径场景</h4><p>场景主要指谁在什么时候(或什么情况下）做了什么事情。当我们了解了用户及其目标，我们就需要一条线把所涉及到的每个用户的目标串起来，而用户的目标只是一个理想化的想法，要把这个理想实现，就需要将每个目标一层一层细化成可具体执行的任务。</p>
+<p>在将目标转化成任务的过程中，要进行几个不同维度的比较：</p>
+<ul>
+<li><strong>对于我们产品用户当前的任务流程是什么样的。</strong></li>
+<li><strong>竞品当前的任务流程是什么样的，是否与我们产品的用户目标一致。</strong></li>
+<li><strong>我们可以在现有情况下采用何种任务流程来更好的满足用户目标。</strong><br>   现有情况不仅涉及到满足任务流程的开发资源，也包括用户对于新体验的接受程度，要衡量(新体验-旧体验)是不是大于用户的切换成本(学习成本等)。</li>
+</ul>
+<hr>
+<h4 id="3-梳理架构"><a href="#3-梳理架构" class="headerlink" title="3.梳理架构"></a>3.梳理架构</h4><p>我们为用户规划了一系列任务流程希望它们可以帮助用户达成目标，但那也仅仅是我们的一种希望。用户会不会明白这些任务流程，会不会准确的执行这些任务，用户的理解及学习过程会涉及到两类行为，一类是获取，一类是输出。</p>
+<ul>
+<li><strong>获取的信息架构</strong></li>
+</ul>
+<p>有些用户使用产品(如新闻、视频类的APP)的行为就是被动获取信息，而当产品提供大量信息时并不能不加限制的全部丢给用户，而这就需要针对信息来进行分类整理，以免造成信息轰炸。而用户的操作过程就是深挖信息的过程。信息的架构与用户心智模型是否一致决定了操作带来的反馈是否符合用户的预期。</p>
+<ul>
+<li><strong>输出的信息架构</strong></li>
+</ul>
+<p>输出就是产品根据用户个体情况进行个性化处理的过程，如订一份外卖、注册一个帐号。用户输出的过程大多数情况下是需要通过几步来完成，这时的信息就是涉及到每一步的引导、说明、解释和反馈。去考虑在哪个步骤阶段对应的展示什么样的辅助信息。</p>
+<hr>
+<h4 id="4-界面呈现"><a href="#4-界面呈现" class="headerlink" title="4.界面呈现"></a>4.界面呈现</h4><p>（1）绘制原型稿，在落实到界面细节过程中，考虑一下信息的布局方式是否符合优先级，考虑是否有遗漏的信息展示。<br>（2）通过布局来建立信息关联或视觉美感<br>（3）优化文案，更简单、清晰的传递概念</p>
+<hr>
+<h4 id="5-其他细节"><a href="#5-其他细节" class="headerlink" title="5.其他细节"></a>5.其他细节</h4><p>当我们在设计方案时，除了考虑每个大的环节，我们也应该警惕一些容易忽略的细节：</p>
+<p>（1）数据权限：是否根据权限的不同对用户进行划分？<br>（2）特殊场景：</p>
+<ul>
+<li>异常情况：失败、数据超时等。</li>
+<li>极限情况：空、极大。</li>
+<li>loading情况</li>
+<li>逆向流程。添加后是否可编辑、可删除？</li>
+</ul>
+<p>（3）网络：无网、wifi、运营商网络、弱网是否有可能产生不同影响？<br>（4）耦合：一个操作是否会对其他信息形成联动影响？<br>（5）版本：不同用户使用新老版本是否存在问题？<br>（6）情感：关键路径中的节点对用户产生了正向情感还是负向情感？</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;div style=&quot;width:300px;margin:0 auto&quot;&gt;&lt;br&gt;    &lt;img src=&quot;http://okfiles0v.bkt.clouddn.com/sikao.jpg&quot; style=&quot;width:100%&quot; ;=&quot;&quot; alt=&quot;Photo by j
+    
+    </summary>
+    
+      <category term="设计思考" scheme="http://www.my2046.com/categories/%E8%AE%BE%E8%AE%A1%E6%80%9D%E8%80%83/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>如何从0认识用户体验设计</title>
